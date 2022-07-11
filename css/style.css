@@ -1,0 +1,22 @@
+
+body{
+
+    background-color: #FFDEDE;
+}
+hr{
+  border-style: dotted;
+  width: 20em;
+border-style:none;
+border-top-style:dotted;
+  border-width: 10px;
+  border-color: grey;
+}
+h1{
+color: #810955 ;
+}
+h2{
+  color: #810955;
+}
+.food{
+  color: #66BFBF;
+}
